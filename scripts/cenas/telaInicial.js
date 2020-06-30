@@ -19,7 +19,7 @@ class TelaInicial {
         textFont(fonteTelaInicial);
         textAlign(CENTER);
         textSize(70);
-        text('cheetah bolt', width / 2, height / 8 * 3);
+        text('as aventuras do guepardo bolt', width / 2, height / 8 * 3);
         // textSize(150);
         // text('fuja da agua', width / 2, height / 8 * 3);
 
