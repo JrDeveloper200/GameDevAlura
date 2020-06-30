@@ -18,10 +18,10 @@ class TelaInicial {
     _texto() {
         textFont(fonteTelaInicial);
         textAlign(CENTER);
-        textSize(50);
-        text('cheetahbolt em', width / 2, height / 6);
-        textSize(150);
-        text('fuja da agua', width / 2, height / 8 * 3);
+        textSize(70);
+        text('cheetah bolt', width / 2, height / 8 * 3);
+        // textSize(150);
+        // text('fuja da agua', width / 2, height / 8 * 3);
 
     }
 
